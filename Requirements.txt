@@ -1,0 +1,7 @@
+- Allow users to enter search terms for an Amazon/Audible Search
+- Show results of the search on the page
+- Allow users to provide Amazon credentials to show what's in their library
+- Allow users to configure their library
+
+
+- a bunch of additional requirements
